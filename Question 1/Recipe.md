@@ -25,7 +25,7 @@
 
 ## Additionals:
 
-- If you want it tastes great if the breads are baked.
+- If you want it tastes great get the breads toasted with some butter on a pan.
 
 # Let's Prepare it:
 
