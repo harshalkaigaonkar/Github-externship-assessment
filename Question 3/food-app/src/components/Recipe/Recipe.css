@@ -1,0 +1,21 @@
+.back {
+  background-color: white;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+.Recipe {
+  background-color: aliceblue;
+  padding: 4%;
+}
+.Header {
+  font-size: 60px;
+  text-shadow: 4px 2px 5px #000;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+.Head {
+  font-size: 20px;
+}
