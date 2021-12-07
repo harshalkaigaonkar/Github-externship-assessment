@@ -6,7 +6,7 @@ import './Recipe.css';
 const Recipe = ({ setShowRecipe }) => {
     const [state, setState] = useState(null);
     useEffect(async () => {
-        const res = await axios.get('http://localhost:3001/get-data-pb-and-j')
+        const res = await axios.get('https://github-externship.herokuapp.com/get-data-pb-and-j')
         setState(res.data.data);
     })
     const Ingredients = state && state[1].source;
