@@ -42,3 +42,10 @@
 ![](https://th.bing.com/th/id/OIP.wePpN0yFOp7XySkB1-7KAQHaHa?w=189&h=189&c=7&r=0&o=5&dpr=1.32&pid=1.7)
 ![](https://th.bing.com/th/id/OIP.qlB-VX9w37pzMjGf2JBpXAHaLH?w=135&h=203&c=7&r=0&o=5&dpr=1.32&pid=1.7)
 ![](https://th.bing.com/th/id/OIP.Sd5-6flJru-zoMV0iBFSQwHaJX?w=149&h=189&c=7&r=0&o=5&dpr=1.32&pid=1.7)
+
+
+### Also made a Node.js API endpoint and A React.js Frontend for it.
+
+[React.js Website](https://cranky-wilson-f324c9.netlify.app/)
+
+[Node.js API](https://github-externship.herokuapp.com/get-data-pb-and-j)

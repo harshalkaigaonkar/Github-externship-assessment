@@ -1,5 +1,5 @@
 fetch(
-    "http://localhost:3001/get-data-pn-and-b",
+    "https://www.example.com/get-data",
     {
         method: "GET"
     }
@@ -9,12 +9,7 @@ fetch(
     )
     .then(
         (res) => {
-            res.data.forEach(element => {
-                console.log(element.id);
-                console.log(element.item);
-                console.log(element.source)
-            });
+            res.data.sort((a, b) => a.id-b.id);
+            console.log(res.data);
         }
     )
-
-    // Moreover is continued at Question 3 for React.js Example
