@@ -1,5 +1,3 @@
-### Credits to [This YT Video](https://www.youtube.com/watch?v=N9GxhnKO9aA)
-
 # Some Information about PN & J Sandwich
 
 - Peanut Butter and Jelly Sandwich (Also Known as PN&J) is an American cuisine, which looks so easy to prepare but some of them still stuggle to make it perfectly. (btw, I tried it for first time turns out great)
