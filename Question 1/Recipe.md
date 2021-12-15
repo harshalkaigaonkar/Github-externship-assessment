@@ -24,7 +24,7 @@
 
 ## Additionals:
 
-- If you want it tastes great get the breads toasted with some butter on a pan.
+- If you want it tastes great get the breads toasted with some butter on a pan. 💯
 
 # Let's Prepare it:
 
@@ -32,7 +32,7 @@
 
 ### 2) Repeat the same process, but now for Jelly on the other bread slice.
 
-### 3) Stack one on the other to create a nice sandwich structure and cut it into two halves, have a great plating and Enjoy the Sandwich.
+### 3) Stack one on the other to create a nice sandwich structure and cut it into two halves, have a great plating and Enjoy the Sandwich. 😋
 
 #
 
