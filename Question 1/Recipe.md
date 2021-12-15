@@ -1,4 +1,4 @@
-# Some Information about PN & J Sandwich
+# Some Information about PN & J Sandwich 🥪
 
 - Peanut Butter and Jelly Sandwich (Also Known as PN&J) is an American cuisine, which looks so easy to prepare but some of them still stuggle to make it perfectly.
 
@@ -7,17 +7,17 @@
 
 # Let's look at Some Ingredients Required :
 
-## 1) Peanut Butter (anyone of them)
+## 1) Peanut Butter 🥜🧈 (anyone of them)
 
 - Chunky Unsalted Butter
 - Smooth Unsalted Butter
 
-## 2) Jelly (anyone of them)
+## 2) Jelly 🍯 (anyone of them)
 
 - Grape Jelly
 - Strawberry Jelly
 
-## 3) Bread (Whole Wheat is preffered)
+## 3) Bread 🍞 (Whole Wheat is preffered)
 
 - Whole Wheat Bread
 - White Bread
